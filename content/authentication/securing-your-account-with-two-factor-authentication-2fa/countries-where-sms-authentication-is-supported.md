@@ -134,3 +134,4 @@ If your country is not on this list, then we aren't currently able to reliably d
 ## Further reading
 
 - "[About two-factor authentication](/articles/about-two-factor-authentication)"
+https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
