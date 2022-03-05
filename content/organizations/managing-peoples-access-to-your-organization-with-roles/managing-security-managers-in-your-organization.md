@@ -55,3 +55,4 @@ You can assign the security manager role to a maximum of 10 teams in your organi
 {% data reusables.organizations.security-and-analysis %}
 1. Under **Security managers**, to the right of the team you want to remove as security managers, click {% octicon "x" aria-label="The X icon" %}.
   ![Remove security managers](/assets/images/help/organizations/remove-security-managers.png)
+https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
