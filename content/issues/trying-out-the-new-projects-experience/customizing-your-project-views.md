@@ -205,3 +205,4 @@ Alternatively, click {% octicon "triangle-down" aria-label="the drop-down icon" 
 
 - "[About projects (beta)](/issues/trying-out-the-new-projects-experience/about-projects)"
 - "[Creating a project (beta)](/issues/trying-out-the-new-projects-experience/creating-a-project)"
+https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
