@@ -26,3 +26,4 @@ In order to access your enterprise account this way, you must have previously do
 {% endnote %}
 
 {% data reusables.saml.recovery-code-access %}
+https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
