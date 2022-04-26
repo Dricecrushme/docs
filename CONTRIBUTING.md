@@ -3,17 +3,8 @@
 ## Getting started <!-- omit in toc -->
 
 Before you begin:
-- This site is powered by Node.js. Check to see if you're on the [version of node we support](contributing/development.md).
 - Have you read the [code of conduct](CODE_OF_CONDUCT.md)?
 - Check out the [existing issues](https://github.com/github/docs/issues) & see if we [accept contributions](#types-of-contributions-memo) for your type of issue.
-
-### Use the 'make a contribution' button
-
-<img src="./assets/images/contribution_cta.png" width="400">
-
-Navigating a new codebase can be challenging, so we're making that a little easier. As you're using docs.github.com, you may come across an article that you want to make an update to. You can click on the **make a contribution** button right on that article, which will take you to the file in this repo where you'll make your changes.
-
-Before you make your changes, check to see if an [issue exists](https://github.com/github/docs/issues/) already for the change you want to make.
 
 ### Don't see your issue? Open one
 
@@ -21,7 +12,19 @@ If you spot something new, open an issue using a [template](https://github.com/g
 
 **Note:** We cannot accept contributions to the [REST API reference documentation](https://docs.github.com/en/rest/reference). If you spot an inaccuracy in the REST API reference documentation, open an issue in the [github/rest-api-description](https://github.com/github/rest-api-description/issues/new?template=schema-inaccuracy.md) repository.
 
-### Ready to make a change? Fork the repo
+## Ready to make a change? 
+
+Before you make your changes, check to see if an [issue exists](https://github.com/github/docs/issues/) already for the change you want to make.
+
+### Use the 'make a contribution' button
+
+<img src="./assets/images/contribution_cta.png" width="400">
+
+Navigating a new codebase can be challenging, so we're making that a little easier. As you're using docs.github.com, you may come across an article that you want to make an update to. You can click on the **make a contribution** button right on that article, which will take you to the file in this repo where you'll make your changes.
+
+### Fork the repo
+
+This site is powered by Node.js. Check to see if you're on the [version of node we support](contributing/development.md).
 
 Fork using GitHub Desktop:
 
@@ -38,7 +41,7 @@ Fork with [GitHub Codespaces](https://github.com/features/codespaces):
 
 ### Make your update:
 Make your changes to the file(s) you'd like to update. Here are some tips and tricks for [using the docs codebase](#working-in-the-githubdocs-repository).
-  - Are you making changes to the application code? You'll need **Node.js v14** to run the site locally. See [contributing/development.md](contributing/development.md).
+  - Are you making changes to the application code? You'll need **Node.js v16** to run the site locally. See [contributing/development.md](contributing/development.md).
   - Are you contributing to markdown? We use [GitHub Markdown](contributing/content-markup-reference.md).
 
 ### Open a pull request
